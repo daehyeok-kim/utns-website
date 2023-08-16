@@ -34,6 +34,7 @@ authors:
 banner:
   caption: ""
   image: ""
+featured: true
 projects:
   - RAN
 date: 2023-08-16T15:31:23.942Z
